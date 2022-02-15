@@ -2,50 +2,90 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "Shi Yue",
-        "description": "Junior PhD Candidate",
+        "name": "周俊",
+        "description": "岂能尽如人意，但求无愧我心",
+        "school": "中山大学",
+        "profession": "计算机科学与技术",
+        "sex": "男",
+        "education" : "本科",
+        "workage": "2012届毕业",
+        "phone": "15088888888",
+        "email": "tonjayin@gmail.com"
     },
-   
-    "social": [
+    "social":[
         {
-            "name": "National Scholarship (3 times)"
+            "type": "github",
+            "link": "https://github.com/Jayin",
+            "icon": ""
         },
         {
-            "name": "International first prize of the College Students Mathematical Contest in Modeling"
+            "type": "weibo",
+            "link": "http://weibo.com",
+            "icon": ""
         },
         {
-            "name": "Second Prize of National College Students Mathematics Competition"
+            "type": "linkedin",
+            "link": "https://www.linkedin.com",
+            "icon": ""
         },
         {
-            "name": "School-level outstanding student cadres"
+            "type": "twitter",
+            "link": "https://twitter.com",
+            "icon": ""
         },
         {
-            "name": "school-level scholarships (5 times)"
+            "type": "home",
+            "link": "https://github.com/Jayin",
+            "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "3D Reconstruction from images",
-            "description": "Reconstruction of 3D object, Reconstruction of the clothed human body, Unsupervised 3D Reconstrution, In-the-wild 3D Reconstruction"
+            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
         },
         {
-            "name": "Photorealistic rendering across scenes",
-            "description": "Generalized Neural Radiance Radiance, Editable Neural Radiance Radiance"
-        }
-	{
-            "name": "3D interaction",
-            "description": "realistic Fitting"
+            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
+        },
+        {
+            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
+        },
+        {
+            "name": "201X百度校园助手大赛优秀开发奖"
+        },
+        {
+            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
         }
     ],
     "socialExperiences": [
         {
-            "1": "Geometric Granularity Aware Pixel-to-Mesh",
-            "2": "General Neural Radiance Field",
-            "3": "Unsupervised 3D reconstruction for In-the-wild Objects"
-        }
-     "ProjectExperience": [
+            "name": "加入XX移动开发工作室",
+            "name_link": "https://github.com/Jayin",
+            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
+        },
         {
-            "name": "XTips", "Android App for photorealistic rendering across scenes"
+            "name": "组织X次校内开发者交流会",
+            "name_link": "https://github.com/Jayin",
+            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
+        }
+    ],
+    "InternExperiences": [
+        {
+            "name": "深圳XX网络科技有限公司",
+            "name_link": "",
+            "title": "前端开发工程师",
+            "icon": "",
+            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
+            "time": "2015.04 - 2015.09",
+            "location": "广东 深圳"
+        },
+        {
+            "name": "深圳XXX网络科技有限公司",
+            "name_link": "",
+            "title": "PHP开发工程师",
+            "icon": "",
+            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
+            "time": "2014.07 - 2014.08",
+            "location": "广东 江门"
         }
     ]
 }
