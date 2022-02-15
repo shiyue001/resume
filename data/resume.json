@@ -6,7 +6,7 @@
         "description": "Junior PhD Candidate",
     },
    
-    "Awards": [
+    "social": [
         {
             "name": "National Scholarship (3 times)"
         },
@@ -23,7 +23,7 @@
             "name": "school-level scholarships (5 times)"
         }
     ],
-    "Research directions": [
+    "Awards": [
         {
             "name": "3D Reconstruction from images",
             "description": "Reconstruction of 3D object, Reconstruction of the clothed human body, Unsupervised 3D Reconstrution, In-the-wild 3D Reconstruction"
@@ -37,12 +37,15 @@
             "description": "realistic Fitting"
         }
     ],
-    "Papers": [
+    "socialExperiences": [
         {
             "1": "Geometric Granularity Aware Pixel-to-Mesh",
             "2": "General Neural Radiance Field",
-            "3": "Unsupervised 3D reconstruction for In-the-wild Objects",
-            "4": "Android App for photorealistic rendering across scenes",
+            "3": "Unsupervised 3D reconstruction for In-the-wild Objects"
+        }
+     "ProjectExperience": [
+        {
+            "name": "XTips", "Android App for photorealistic rendering across scenes"
         }
     ]
 }
