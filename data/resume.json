@@ -75,31 +75,22 @@
     ],
     "InternExperiences": [
         {
-            "name": "Geometric Granularity Aware Pixel-to-Mesh",
+            "name": "深圳XX网络科技有限公司",
             "name_link": "",
-            "title": "",
+            "title": "前端开发工程师",
             "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
+            "time": "2015.04 - 2015.09",
+            "location": "广东 深圳"
         },
         {
-            "name": "General Neural Radiance Field",
+            "name": "深圳XXX网络科技有限公司",
             "name_link": "",
-            "title": "",
+            "title": "PHP开发工程师",
             "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
-        },
-		{
-            "name": "Unsupervised 3D reconstruction for In-the-wild Objects",
-            "name_link": "",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
+            "time": "2014.07 - 2014.08",
+            "location": "广东 江门"
         }
     ],
     "ProjectExperience": [
