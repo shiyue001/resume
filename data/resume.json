@@ -97,24 +97,6 @@
             "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
             "time": "2013.07 - 至今",
             "location": ""
-        },
-        {
-            "name": "XX技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
-            "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
         }
     ]
 }
