@@ -56,19 +56,24 @@
             "name": "school-level scholarships (5 times)"
         }
     ],
-   
-    "socialExperiences": [
-        {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
-        },
-        {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
-    ],
+
+	"socialExperiences": [
+		{
+			"name": "3D Reconstruction from images",
+			"name_link": "",
+			"description": "Reconstruction of 3D object, Reconstruction of the clothed human body, Unsupervised 3D Reconstrution, In-the-wild 3D Reconstruction"
+		},
+		{
+			"name": "Photorealistic rendering across scenes",
+			"name_link": "",
+			"description": "Generalized Neural Radiance Field, Editable Neural Radiance Field"
+		},
+		{
+			"name": "3D interaction",
+			"name_link": "",
+			"description": "Clothing simulation, Realistic Fitting"
+		}
+	],
     "InternExperiences": [
         {
             "name": "深圳XX网络科技有限公司",
@@ -91,40 +96,13 @@
     ],
     "ProjectExperience": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "XX技能培训中心",
-            "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
-            "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
-            "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
+			"name": "WeShare",
+			"name_link": "",
+			"title": "Android App",
+			"icon": "",
+			"description": "Android App for Photorealistic Rendering Across Scenes",
+			"time": "2021.10 - now",
+			"location": ""
         }
     ]
 }
