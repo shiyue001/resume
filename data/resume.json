@@ -2,8 +2,15 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "Shi Yue",
-        "description": "Junior PhD Candidate",
+        "name": "Shi yue",
+        "description": "岂能尽如人意，但求无愧我心",
+        "school": "中山大学",
+        "profession": "计算机科学与技术",
+        "sex": "男",
+        "education" : "本科",
+        "workage": "2012届毕业",
+        "phone": "",
+        "email": "shiyue001@sjtu.edu.cn"
     },
     "social":[
         {
